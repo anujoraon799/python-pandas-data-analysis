@@ -1,4 +1,4 @@
-# Python Pandas Data Analysis
+# penguin-insights-analysis
 
 ## Project Overview
 
